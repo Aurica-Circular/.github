@@ -39,11 +39,6 @@ No cloud, no data leaks, no usage analytics.
 
 `local-first` `privacy` `rag` `ocr` `meilisearch` `ollama`
 
-### [aitao-revocations](https://github.com/Aurica-Circular/aitao-revocations)
-
-The public, signed list of cancelled AiTao licence keys. It contains no names, no emails —
-only fingerprints.
-
 ## ♻️ Circular economy
 
 - **Black soldier fly composter** — a sealed neighbourhood composter to process food waste where
@@ -64,4 +59,4 @@ only fingerprints.
 We are looking for **partners, testers and investors** in Taiwan and in Europe.
 Found a bug in AiTao? [Open an issue](https://github.com/Aurica-Circular/AiTao/issues).
 Anything else: [auricacircular.com/en/contact](https://auricacircular.com/en/contact/)
-· support@auricacircular.com
+· contact@auricacircular.com
